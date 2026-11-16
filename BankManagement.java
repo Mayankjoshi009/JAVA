@@ -22,6 +22,7 @@ class Account {
             System.out.println("Insufficient Balance!");
         }
     }
+    
     void displayAccountDetails() {
         System.out.println("Account Number: " + accountNumber);
         System.out.println("Account Holder: " + accountHolderName);
